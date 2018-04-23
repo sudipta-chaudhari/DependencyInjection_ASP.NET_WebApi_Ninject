@@ -2,8 +2,6 @@
 
 Dependency Injection in ASP.NET WebApi using Ninject
 
-Complete details about this source code can be found in the article :
-
-https://sudiptach.wordpress.com/2017/09/13/dependency-injection-in-asp-net-webapi-using-ninject/
+Read detailed article/blog on : http://sudiptachaudhari.com/dependency-injection-aspnet-webapi/
 
 
